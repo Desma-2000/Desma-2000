@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./desmacodesloho.png" align="center" style="width: 100%" />
+<img src="./desmacodesloho.png" align="center" style="width: 60%" />
 </div>  
   
 
